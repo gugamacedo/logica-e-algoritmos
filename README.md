@@ -1,8 +1,7 @@
 # Entrando no mundo da programação 
 ![Surpreso](./wow.gif)
 
-Nessa disciplina foi escolhida a linguagem **Python**, pois é uma linguagem de fácil sintaxe, com grande foco na legibilidade, bem tranquila pra quem está começando 😅<br>
-Para complementar/reforçar, fiz o **![Youtube](https://www.youtube.com/s/desktop/b4620429/img/favicon.ico)[curso de Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)**, ministrado pelo **[Gustavo Guanabara](https://www.instagram.com/gustavoguanabara/?hl=pt-br)**. O curso é **gratuito**, ensina os fundamentos com uma didática voltada pro iniciante, além de ser bem detalhado (**23** aulas e **115** exercícios).
+Para esse aprendizado escolhi o **![Youtube](https://www.youtube.com/s/desktop/b4620429/img/favicon.ico)[curso de Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)**, ministrado pelo **[Gustavo Guanabara](https://www.instagram.com/gustavoguanabara/?hl=pt-br)**. O curso é **gratuito**, ensina os fundamentos com uma didática voltada pro iniciante, além de ser bem detalhado (**23** aulas e **115** exercícios). Somado a tudo isso **Python** é uma linguagem de sintaxe fácil, sem verbosidade, com grande legibilidade, bem tranquila pra quem está começando 😅
 
   - **Aula [01](https://youtu.be/S9uPNppGsGo?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Seja um(a) Programador(a)**
   - **Aula [02](https://youtu.be/Mp0vhMDI7fA?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Para que serve o Python?**

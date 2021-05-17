@@ -15,7 +15,7 @@ def contador(i, f, p):
     :param f: fim da contagem
     :param p: passo da contagem
     :return: sem retorno
-    @gmacedodev
+    @gugamacedo
     """
     for n in range(i, f+1, p):
         print(n)

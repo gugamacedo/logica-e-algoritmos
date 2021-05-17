@@ -1,9 +1,9 @@
-# verifique se dá pra acessar um site (???)
+# verifique se dá pra acessar um site
 import urllib
 import urllib.request
 
 try:
-    site = urllib.request.urlopen('https://github.com/gmacedodev')
+    site = urllib.request.urlopen('https://github.com/gugamacedo')
 except Exception as erro:
     print('O pai tá off 😴')
 else:
