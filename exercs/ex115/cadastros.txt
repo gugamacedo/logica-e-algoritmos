@@ -1,0 +1,5 @@
+Maria;20
+João;30
+Cleiton;50
+Creusa;80
+Ronalda; 45
